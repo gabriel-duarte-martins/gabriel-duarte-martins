@@ -4,7 +4,7 @@
 
 ## Sobre Mim
 
-Tenho 23 anos e moro em São Paulo/SP. Sou bacharel em Sistemas de Informação pela Faculdade Impacta de Tecnologia (FIT) e atualmente curso Pós-Graduação em Ciência de Dados com IA na FIAP.
+Tenho 24 anos e moro em São Paulo/SP. Sou bacharel em Sistemas de Informação pela Faculdade Impacta de Tecnologia (FIT) e atualmente curso Pós-Graduação em Ciência de Dados com IA na FIAP.
 
 Sou atento aos detalhes, possuo fortes habilidades analíticas e raciocínio lógico desenvolvido. Estou sempre ansioso para adquirir novos conhecimentos e experiências na área de dados.
 

@@ -11,7 +11,7 @@ Sou atento aos detalhes, possuo fortes habilidades analíticas e raciocínio ló
 ## Experiência Profissional
 
 ### Shopee (08/2025 - Atualmente)
-**Data Analyst Jr (04/2024 - 08/2025)**
+**Data Analyst Jr (08/2025 - Atualmente)**
 
 - Sustentabilidade de tabelas e estruturas de dados
 - Monitoramento de KPIs e desenvolvimento de dashboards
